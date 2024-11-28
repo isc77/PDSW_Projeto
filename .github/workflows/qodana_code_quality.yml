@@ -23,6 +23,7 @@ jobs:
         uses: JetBrains/qodana-action@v2024.2
         with:
           pr-mode: false
+          upload-result: true # Habilita o upload do relatório
         env:
           QODANA_TOKEN: ${{ secrets.QODANA_TOKEN_943399760 }}
           QODANA_ENDPOINT: 'https://qodana.cloud'
