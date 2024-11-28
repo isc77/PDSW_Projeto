@@ -3,9 +3,9 @@ on:
   workflow_dispatch:
   pull_request:
   push:
-    branches: # Especifique seus ramos aqui
-      - main # O ramo principal
-      - 'releases/*' # Ramo de lançamentos
+      branches: # Specify your branches here
+      - main # The 'main' branch
+      - 'releases/*' # The release branches
 
 jobs:
   qodana:
@@ -17,13 +17,13 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          ref: ${{ github.event.pull_request.head.sha }}  # para verificar o commit real do pull request, não o commit de merge
-          fetch-depth: 0  # um histórico completo é necessário para a análise do pull request
+          ref: ${{ github.event.pull_request.head.sha }}  # to check out the actual pull request commit, not the merge commit
+          fetch-depth: 0  # a full history is required for pull request analysis
       - name: 'Qodana Scan'
         uses: JetBrains/qodana-action@v2024.2
         with:
           pr-mode: false
           upload-result: true # Habilita o upload do relatório
         env:
-          QODANA_TOKEN: ${{ secrets.QODANA_TOKEN }}  # Substitua pelo seu token de autenticação do Qodana
+          QODANA_TOKEN: ${{ secrets.QODANA_TOKEN_1831782889 }}
           QODANA_ENDPOINT: 'https://qodana.cloud'
