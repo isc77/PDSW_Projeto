@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8d5de507-2887-484d-87fb-835b0d928f3b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/01.js" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/01.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/02.js" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/02.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/03.js" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/03.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/04.js" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/04.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/05.js" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/05.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/06.js" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/06.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/07.js" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/07.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/08.html" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/08.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/09.html" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/09.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/10.js" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/10.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/11.js" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/11.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/12.js" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/12.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/13.js" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/13.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/14.js" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/14.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/15.js" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/15.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/16.js" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/16.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/17.js" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/17.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/18.js" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/18.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/19.js" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/19.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/20.js" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/20.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/21.js" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/21.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/22.js" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/22.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/23.js" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/23.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/24.js" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/24.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/25.js" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/25.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/26.js" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/26.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/27.js" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/27.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/28.js" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/28.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/29.js" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/29.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/30.html" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/30.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/31.html" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/31.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/32.html" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/32.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/33.html" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/33.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/34.html" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/34.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/35.html" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/35.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/36.html" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/36.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/37.html" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/37.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/38.html" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/38.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/39.js" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/39.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/40.js" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/40.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/41.js" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/41.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/42.js" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/42.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/43.html" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/43.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/44.html" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/44.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolucoes/45.html" beforeDir="false" afterPath="$PROJECT_DIR$/resolucoes/45.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2pTtdaFehoGKMJjOWYRiMy7BmA4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+</project>
