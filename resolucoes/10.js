@@ -15,3 +15,6 @@ function getSum(x){
 }
 
 console.log(`O resultado da soma de 1 até ${N} é ${getSum(N)}`);
+
+// Exports das funções para testes
+module.exports = { getSum };

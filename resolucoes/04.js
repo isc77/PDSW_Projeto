@@ -12,4 +12,6 @@ console.log(`
     O retângulo possui ${length}cm de comprimento e ${width}cm de altura.
     Sua área é de ${getArea(length, width)}cm².
     Seu perímetro é de ${getPerimeter(length, width)}cm.
-`)
+`);
+
+module.exports = { getArea, getPerimeter };

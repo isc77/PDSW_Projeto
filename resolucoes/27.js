@@ -2,7 +2,6 @@
     Desafio 27 - Soma dos valores de um objeto
 */
 
-// object created by Chat GPT
 const obj = {
     "age": 32,
     "height": 176,
@@ -24,6 +23,5 @@ function sum(object) {
     }
     return sum;
 }
-
-console.log(sum(obj));
-console.log(sum(obj2));
+// Exporte a função para que possa ser testada
+module.exports = { sum };  

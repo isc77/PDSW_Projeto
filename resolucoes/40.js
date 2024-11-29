@@ -8,16 +8,6 @@ function transformArray(arr, callback) {
     return newArr;
 }
 
-const array = [1, 2, 3, 4];
+// Exporta a função para uso em testes
+module.exports = transformArray; 
 
-// array with values squared
-const newArray = transformArray(array, (value) => value * value);
-
-// array with all elements = banana
-const bananArray = transformArray(array, () => 'banana')
-
-console.log(array);
-console.log(newArray);
-console.log(bananArray);
-//original array is not modified
-console.log(array);

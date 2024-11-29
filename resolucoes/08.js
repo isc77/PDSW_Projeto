@@ -1,3 +1,7 @@
+/*
+          Desafio 08 - Calculadora
+*/
+
 function showResult() {
     // Obter os valores de entrada
     const x = parseFloat(prompt('Digite o primeiro número:'));
@@ -27,6 +31,5 @@ function compute(x, y, operator) {
             return 'Operação inválida';
     }
 }
-
-// Chama a função para mostrar o resultado
-showResult();
+// Exportando as funções
+module.exports = { showResult, compute };  

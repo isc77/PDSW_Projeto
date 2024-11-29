@@ -14,3 +14,6 @@ function countVowels(str) {
 
 const texto = "A eiou aei ou ae Io U aeio U. BBBBB."
 console.log(`Quantidade de vogais no texto "${texto}": ${countVowels(texto)}`);
+
+// Exports das funções para testes
+module.exports = { countVowels };

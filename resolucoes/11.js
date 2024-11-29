@@ -16,3 +16,6 @@ function showMultiplicationTable(x) {
 }
 
 showMultiplicationTable(N);
+
+// Exports das funções para testes
+module.exports = { showMultiplicationTable, N };

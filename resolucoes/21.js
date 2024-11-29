@@ -1,5 +1,5 @@
 /*
-    Desafio 20 - Array de números aleatórios
+    Desafio 21 - Array de números aleatórios
 */
 
 function randomNumbersArray(quantity, min, max) {

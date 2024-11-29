@@ -22,3 +22,10 @@ const N = 4;
 showPattern(N);
 showReversePattern(N);
 showFullPattern(N);
+
+// Exports das funções para testes
+module.exports = {
+    showPattern,
+    showReversePattern,
+    showFullPattern
+};

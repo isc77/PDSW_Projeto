@@ -30,3 +30,6 @@ function showFibonacci(x) {
 
 const N = 500;
 showFibonacci(N);
+
+// Exports das funções para testes
+module.exports = { fibonacci, showFibonacci };

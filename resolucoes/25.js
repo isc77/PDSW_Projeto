@@ -11,9 +11,12 @@ function intersection(arr1, arr2) {
     return arr1.filter(item => arr2.includes(item))
 }
 
+// Testes fora da função
 console.log(intersection(arr1, arr2));
 console.log(intersection(arr3, arr4));
 
-// Observação: se tiver elementos repetidos, eles serão incluídos no array
 const test = [1, 3, 5, 6, 2, 4, 2, 4, 10]
 console.log(intersection(test, arr3))
+
+// Exporte a função para que possa ser testada
+module.exports = intersection; 

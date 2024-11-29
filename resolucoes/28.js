@@ -2,7 +2,6 @@
     Desafio 28 - Filtrando propriedades de um objeto
 */
 
-// object created by Chat GPT
 const obj = {
     "age": 32,
     "height": 176,
@@ -29,5 +28,5 @@ function ShowValues(object, props) {
     })
 }
 
-ShowValues(obj, props);
-ShowValues(obj2, props);
+// Exporte a função para que possa ser testada
+module.exports = ShowValues;

@@ -1,0 +1,29 @@
+{
+  "name": "desafios-javascript",
+  "version": "1.0.0",
+  "description": "Aqui há uma série de desafios/exercícios propostos pelo Matheus Battisti em seu curso \"Desafios de JavaScript - entrevistas e testes técnicos\", disponível na [Udemy](https://www.udemy.com/course/desafios-de-javascript-entrevistas-e-testes-tecnicos/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.15.0",
+    "@types/jest": "^29.5.14",
+    "@typescript-eslint/eslint-plugin": "^8.16.0",
+    "@typescript-eslint/parser": "^8.16.0",
+    "eslint": "^9.15.0",
+    "eslint-formatter-html": "^2.7.2",
+    "eslint-formatter-table": "^7.32.1",
+    "eslint-plugin-react": "^7.37.2",
+    "globals": "^15.12.0",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2",
+    "typescript-eslint": "^8.16.0"
+  }
+}

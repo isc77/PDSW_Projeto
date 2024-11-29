@@ -15,3 +15,6 @@ for (let i = 0; i < 5; i++) {
         console.log(`O número ${numbers[i]} é ímpar.`);
     }
 }
+
+// Exports das funções para testes
+module.exports = { isEven };

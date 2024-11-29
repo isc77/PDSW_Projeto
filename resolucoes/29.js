@@ -25,3 +25,6 @@ function concatenateObjects(obj1, obj2) {
 }
 
 console.log(concatenateObjects(person,address));
+
+// Exporta a função para uso em testes
+module.exports = { concatenateObjects };

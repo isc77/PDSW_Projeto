@@ -39,3 +39,6 @@ test1[2].push(7)
 console.log(test1)
 console.log(withSpread);
 console.log(withConcat);
+
+// Exporte a função para que possa ser testada
+module.exports = { concatenate, concatenateWithConcat };

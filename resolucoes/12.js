@@ -24,3 +24,6 @@ function isPrime(number) {
 
 const N = 50;
 showPrimeNumbers(N);
+
+// Exports das funções para testes
+module.exports = { showPrimeNumbers, isPrime };

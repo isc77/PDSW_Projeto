@@ -10,5 +10,5 @@ function average(arr) {
     return sum / arr.length;
 }
 
-console.log(average(arr1).toFixed(2));
-console.log(average(arr2).toFixed(2));
+// Exporte a função para que possa ser testada
+module.exports = { average };
